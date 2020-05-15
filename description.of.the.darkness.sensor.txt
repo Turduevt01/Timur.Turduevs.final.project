@@ -1,0 +1,2 @@
+This is a kind of sensor, which works at night and warns drivers, that there is cyclist.
+this device will be located on the backside of the bicycle. 
