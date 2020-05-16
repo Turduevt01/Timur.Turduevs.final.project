@@ -14,3 +14,6 @@
      2) wheels
      3) Seat
      4) Pedals and other parts
+
+            5. Link ot Thingiverse:
+  https://www.thingiverse.com/thing:4364994
